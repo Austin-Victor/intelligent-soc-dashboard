@@ -1,0 +1,8 @@
+# SOC IDS Backend — Python Requirements
+# Install with: pip install -r requirements.txt
+
+scapy==2.5.0
+flask==3.0.3
+flask-cors==4.0.1
+flask-socketio==5.3.6
+psutil==5.9.8
